@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### NAYA College - Data Science Course  
 
 [Creating and Adding to Spotify Playlist](/sample_page)
 <img src="images/billboardToSpotifyScreenshot.png?raw=true"/>
