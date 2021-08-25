@@ -4,7 +4,7 @@
 
 ### NAYA College - Data Science Course  
 
-[Creating and Adding to Spotify Playlist](/sample_page)
+[Creating and Adding to Spotify Playlist](https://github.com/borislad/musicalTimeMachine)
 <img src="images/billboardToSpotifyScreenshot.png?raw=true"/>
 
 ---
