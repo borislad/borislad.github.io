@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Creating and Adding to Spotify Playlist](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/billboardToSpotifyScreenshot.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
